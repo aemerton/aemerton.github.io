@@ -1,2 +1,4 @@
 name: Andrew's Personal Website
 markdown: kramdown
+
+theme: jekyll-theme-midnight
